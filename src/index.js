@@ -1,4 +1,7 @@
 import "./styles.css";
+import "./appRunners/homepageRunner.js"
 
-console.log("🚀 Webpack template ready!");
+
+
+
 
